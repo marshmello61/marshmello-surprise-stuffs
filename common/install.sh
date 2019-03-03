@@ -1,0 +1,1 @@
+cp -rf $INSTALLER/custom/Profile $SDCARD/ViPER4Android
