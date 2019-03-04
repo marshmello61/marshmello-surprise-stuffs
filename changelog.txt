@@ -1,0 +1,5 @@
+ v1.0b2 - initial release
+ v2.0b1 - changed font to GoogleProductSans
+ v2.0b2 - font - DroidSans
+ v2.0b3 - font ubuntulight
+ v2.0b4 - font avenir
