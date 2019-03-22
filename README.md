@@ -1,4 +1,4 @@
-# marshmello surprise stuffs v2.0b4
+# marshmello surprise pack
 The custom stuffs for all aosp, lineage and gzr based roms. Works on almost all pie, oreo, nougat and below roms.
 
 ## Features
